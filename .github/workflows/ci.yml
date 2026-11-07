@@ -1,4 +1,5 @@
 name: ci
+# Essai E8-mini : modification sensible (commentaire)
 
 on:
   pull_request:
