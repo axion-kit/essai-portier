@@ -24,3 +24,5 @@ pnpm e2e            # un test de bout en bout (vue mobile)
 - `REPRENDRE.md` : point de reprise (lire le bloc du haut)
 
 Le dépôt est public : jamais de secret, jamais de nom de client ou de personne.
+
+Essai E8-mini : modification banale.
